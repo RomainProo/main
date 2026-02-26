@@ -12,7 +12,7 @@ h1 {
  top: 125px;
 }
 
-#presentation {
+.presentation {
     text-decoration: none;
     color: black;
     font-family: 'Courier New', Courier, monospace;
@@ -21,7 +21,7 @@ h1 {
     left: 1500px;
 }
 
-#lien_utile {
+.lien_utile {
     text-decoration: none;
 color: slategray;
  font-family: 'Courier', Courier, monospace;
@@ -31,7 +31,7 @@ left: 510px;
 top: 200px;
 }
 
-#Coding {
+.Coding {
 text-decoration: none;
 color: slategray;
  font-family: 'Courier', Courier, monospace;
@@ -41,7 +41,7 @@ left: 510px;
 top: 230px;
 }
 
-#Cyclisme {
+.Coding {
 text-decoration: none;
 color: slategray;
  font-family: 'Courier', Courier, monospace;
@@ -51,7 +51,7 @@ left: 510px;
 top: 260px;
 }
 
-#Commandes {
+.Coding {
 text-decoration: none;
 color: slategray;
  font-family: 'Courier', Courier, monospace;
@@ -61,8 +61,8 @@ left: 510px;
 top: 290px;
 }
 
-#titre {
-    text-decoration: underline;
+.titre {
+
 }
 
 
