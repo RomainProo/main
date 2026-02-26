@@ -10,9 +10,8 @@ h1 {
 
 }
 
-.Coding .lien_utile .presentation .titre {
-display: flex;
-flex-direction: column ;
+.menu {
+display: grid;
 }
 
 .presentation {
